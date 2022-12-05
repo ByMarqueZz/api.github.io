@@ -1,0 +1,1 @@
+curl -d "grant_type=client_credentials&client_id=TcwSrYYl9VhFboIlvAPpOcTw2s73FZs0kzVODJar1VytGL3W7R&client_secret=Dsa1bacREBHc6uCfPVNMdgPgjySiyCj54bRzTrc4" https://api.petfinder.com/v2/oauth2/token
